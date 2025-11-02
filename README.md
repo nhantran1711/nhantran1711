@@ -13,7 +13,7 @@
 <p align="left">My name is Simon Tran. <br>A current Software Engineer based in Adelaide, South Australia.</p>
 
 
-<p align="left">Tech Stack:</p>
+
 ###
 
 <div align="center">
