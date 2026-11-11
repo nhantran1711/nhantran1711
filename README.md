@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer Intern @JAC
+Software Engineer @Adelaide
 
 
 # 💻 Tech Stack:
